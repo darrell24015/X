@@ -88,6 +88,8 @@
 		ED301B491B9CAD16002A9E84 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Darrell Little";
 				TargetAttributes = {
@@ -233,6 +235,7 @@
 				ED301B5A1B9CAD17002A9E84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

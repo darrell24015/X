@@ -8,6 +8,6 @@
 
 import Foundation
 
-println("Hello, World!")
-print("Helloooooo ... ")
-println("Ok, that's it, done!")
+print("Hello, World!")
+print("Helloooooo ... ", terminator: "")
+print("Ok, that's it, done!")
