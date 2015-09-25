@@ -11,3 +11,5 @@ import Foundation
 print("Hello, World!")
 print("Helloooooo ... ", terminator: "")
 print("Ok, that's it, done!")
+print("Oh, wait, I still have more to say.", terminator: "")
+print(" ... or maybe not.  I can't decide.")
