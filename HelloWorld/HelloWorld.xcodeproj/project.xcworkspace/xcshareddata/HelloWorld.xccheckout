@@ -5,13 +5,21 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>87101C4B-1DB7-4E84-8F87-2EFF50B77A56</string>
+=======
+	<string>0867458F-6AC2-476F-8F3A-F50C15778D08</string>
+>>>>>>> c94713826c6a29c53226ba5bf9f41e44c6ff2b35
 	<key>IDESourceControlProjectName</key>
 	<string>HelloWorld</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>8C8DF5E1BDEBA09A462A685876B05ED2F9453EC1</key>
+<<<<<<< HEAD
 		<string>https://github.com/darrell24015/X.git</string>
+=======
+		<string>https://github.com/darrell24015/Xcode</string>
+>>>>>>> c94713826c6a29c53226ba5bf9f41e44c6ff2b35
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>HelloWorld/HelloWorld.xcodeproj</string>
@@ -21,7 +29,11 @@
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
+<<<<<<< HEAD
 	<string>https://github.com/darrell24015/X.git</string>
+=======
+	<string>https://github.com/darrell24015/Xcode</string>
+>>>>>>> c94713826c6a29c53226ba5bf9f41e44c6ff2b35
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +46,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>8C8DF5E1BDEBA09A462A685876B05ED2F9453EC1</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< HEAD
 			<string>X</string>
+=======
+			<string>Xcode</string>
+>>>>>>> c94713826c6a29c53226ba5bf9f41e44c6ff2b35
 		</dict>
 	</array>
 </dict>
